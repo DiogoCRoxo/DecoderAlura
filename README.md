@@ -1,2 +1,3 @@
 # DecoderAlura
-Decoder for messages 
+******************************************* 
+This decoder was developed by me especially for #ChallengeOne
